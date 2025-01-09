@@ -1,42 +1,30 @@
-# Welcome to NanoBrowser 🌐
+# Welcome to Nanobrowser 🌐
 
 _Your AI-powered web automation companion in Chrome_
 
-NanoBrowser is an open-source browser extension that lets you automate web tasks through natural conversations with AI agents.
+Nanobrowser is an open-source browser extension that lets you automate web tasks through natural conversations with AI agents.
 
 ## 🎯 Our Mission
 
-We believe web automation should be as simple as having a conversation. Since automation tools require significant browser access, we're building NanoBrowser completely in the open, making transparency and trust our foundation.
+We believe web automation should be as simple as having a conversation. Since automation tools require significant browser access, we're building Nanobrowser completely in the open, making transparency and trust our foundation.
 
 ## ✨ What We Do
 
 * 🤖 **Multi-Agent System:** Multiple specialized AI agents work together to handle complex web tasks
-* 💬 **Chat Interface:** Control your automation through natural conversations in the chrome sidebar
+* 💬 **Chat Interface:** Control your automation through natural conversations in the sidebar
 * 👁️ **Visual Feedback:** Watch and control your automations in real-time
 * 🔒 **Privacy-First:** Your data stays in your browser
 * 📖 **Open Source:** Full transparency in how we handle your data and permissions
 
-## 🌟 Be Part of Our Community
+## 🌟 Join Our Community
 
-We're building an open ecosystem for web automation together:
+Help us build the future of web automation:
 
-### Try & Share
-Experience the future of web automation by trying our Chrome extension. Your feedback shapes our development.
-
-### Engage & Discuss
-* Share your automation use cases
-* Suggest new features
-* Help others get started
-* Discuss web automation ideas
+* Try our Chrome extension and share your feedback
+* Join discussions on Discord
+* Contribute code, report bugs, or improve docs
+* Suggest features and use cases
 * Review our code and practices
-
-### Contribute & Build
-As an open-source project, we welcome contributions of all kinds:
-* Code contributions
-* Feature suggestions
-* Bug reports
-* Documentation improvements
-* UX/UI improvements
 
 ---
 
