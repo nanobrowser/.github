@@ -18,13 +18,10 @@ We believe web automation should be as simple as having a conversation. Since au
 
 ## 🌟 Join Our Community
 
-Help us build the future of web automation:
-
-* Try our Chrome extension and share your feedback
-* Join discussions on Discord
-* Contribute code, report bugs, or improve docs
-* Suggest features and use cases
-* Review our code and practices
+* 🧪 Try our Chrome extension and share your feedback
+* 💬 Join discussions on Discord
+* 🛠️ Contribute code, report bugs, or improve docs
+* 💡 Suggest features and use cases
 
 ---
 
