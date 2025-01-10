@@ -1,12 +1,12 @@
-# Welcome to Nanobrowser 🌐
+# Welcome to NanoBrowser 🌐
 
 _Your AI-powered web automation companion in Chrome_
 
-Nanobrowser is an open-source browser extension that lets you automate web tasks through natural conversations with AI agents.
+NanoBrowser is an open-source browser extension that lets you automate web tasks through natural conversations with AI agents.
 
 ## 🎯 Our Mission
 
-We believe web automation should be as simple as having a conversation. Since automation tools require significant browser access, we're building Nanobrowser completely in the open, making transparency and trust our foundation.
+We believe web automation should be as simple as having a conversation. Since automation tools require significant browser access, we're building NanoBrowser completely in the open, making transparency and trust our foundation.
 
 ## ✨ What We Do
 
